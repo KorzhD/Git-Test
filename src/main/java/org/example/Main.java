@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello World");
         ArrayList<String> a = new ArrayList();
         System.out.prtintln("uwu");
-
+    System.out.prtintln("uwu123");
     }
 }
