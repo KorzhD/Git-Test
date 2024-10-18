@@ -9,5 +9,7 @@ public class Main {
         System.out.println("uwu");
         System.out.println("UWUNYA");
 
+        System.out.println("uwu");
+    System.out.println("uwu123");
     }
 }
