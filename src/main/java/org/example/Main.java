@@ -9,5 +9,10 @@ public class Main {
 
         System.out.println("GITTTT");
         System.out.println("naaah");
+
+        String b = "SUDDAAAA";
+        System.out.println("yeaa bitch");
+
+
     }
 }
